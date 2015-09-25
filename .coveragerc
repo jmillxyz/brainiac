@@ -1,0 +1,3 @@
+[run]
+include = brainiac_repo/*
+omit = *migrations*
